@@ -1,0 +1,51 @@
+{
+	"basics": {
+		"name": "Naveed Shah",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/88178094?s=400&u=7628ad72732d4006a185cf7aad4bd9cf32573217&v=4",
+		"email": "2020kucp1084@iiitkita.ac.in",
+		"phone": "9149969715",
+		"summary": "I'm a student of indian instute of information technology , kota(india), persuing my B.tech in computer  science & engineering",
+		"location": {
+			"address": "Ladakh, Kargil",
+			"postalCode": "194103",
+			"city": "kargil",
+			"countryCode": "India",
+			"region": "Ladakh"
+		},
+	"profiles": [{
+			
+				"network": "Github",
+				"username": "Naveedshah07",
+				"url": "https://www.github.com/Naveedshah07/"
+			},
+			{
+				"network": "linkedin",
+				"username": "naveed shah",
+				"url": "https://www.linkedin.com/in/naveed shah/"
+			},
+			{
+				"network": "Instagram",
+				"username": "syed.naveed.shah",
+				"url": "https://instagram.com/syed.naveed.shah/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["volleyball", "basketball"]
+	}],
+	"references": []
+}
